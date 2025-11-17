@@ -1,2 +1,7 @@
 # Assignment-3-DS
-DSA Assignment 3 — Campus Navigation &amp; Algorithms
+Student: Umang Gupta
+
+## Run (if you download repo and have Python)
+
+
+Files: `src/` (code) and `tests/run_all.py`.
