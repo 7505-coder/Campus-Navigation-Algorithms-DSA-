@@ -1,6 +1,3 @@
-# Assignment-3-DS
-Student: Umang Gupta
-
 ## Run (if you download repo and have Python)
 
 
